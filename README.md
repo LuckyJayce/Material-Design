@@ -34,7 +34,8 @@
 ## 8.android-ui  
 * 项目地址：https://github.com/markushi/android-ui  
 ![image](https://raw.githubusercontent.com/markushi/android-ui/master/example-action.gif)  
-![image](https://raw.githubusercontent.com/markushi/android-ui/master/example-reveal.gif)  
+
+<img src="https://raw.githubusercontent.com/markushi/android-ui/master/example-reveal.gif" alt="screenshot" width="300px" height="auto" />
 
 ## 9.material-menu   
 * 项目地址：https://github.com/balysv/material-menu  
@@ -63,6 +64,7 @@ Android Library that implements Snackbars from Google's Material Design document
 ## 14.MaterialTabs
 Custom Tabs with Material Design animations for pre-Lollipop devices
 * 项目地址：https://github.com/neokree/MaterialTabs
+
 <img src="https://raw.github.com/neokree/MaterialTabs/master/screen-icon.png" alt="screenshot" width="300px" height="auto" />
 
 ## 15.Material Dialogs
