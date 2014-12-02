@@ -1,10 +1,9 @@
 #Material-Design
 ------
 [LDrawer](#1ldrawer)  
-[LDrawer](#1ldrawer)
-[LDrawer](#1ldrawer) 
-[MaterialDesignLibrary](#2materialdesignlibrary) 
-[MaterialDesignLibrary](#2materialdesignlibrary) 
+[MaterialDesignLibrary](#2materialdesignlibrary)
+[RippleEffect](#3rippleeffect)  
+[MaterialEditText](#4materialedittext)  
 [RippleEffect](#3rippleeffect)
 [MaterialEditText](#4materialedittext) 
 [LollipopShowcase](#5lollipopshowcase) 
