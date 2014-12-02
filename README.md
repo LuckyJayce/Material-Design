@@ -42,3 +42,10 @@ Material-Design
 Android-ObservableScrollView是一款用于在滚动视图中观测滚动事件的Android库。它能够轻而易举地与Android 5.0 Lollipop引进的工具栏（Toolbar）进行交互，还可以帮助开发者实现拥有Material Design应用视觉体验的界面外观，支持ListView、ScrollView、WebView、RecyclerView、GridView组件。  
 * 项目地址项目地址：https://github.com/ksoichiro/Android-ObservableScrollView  
 ![image](https://github.com/ksoichiro/Android-ObservableScrollView/blob/master/observablescrollview-samples/demo12.gif)
+
+### 11.RippleDrawable
+A port of Ripple Effect from Android L to non L devices  
+* 项目地址项目地址：https://github.com/ozodrukh/RippleDrawable  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DxMJxm9qd5c
+" target="_blank"><img src="http://img.youtube.com/vi/DxMJxm9qd5c/0.jpg" 
+alt="Ripple DEMO" width="320" height="240" border="10" /></a>
