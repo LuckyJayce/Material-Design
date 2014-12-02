@@ -2,15 +2,10 @@
 ------
 [LDrawer](#1ldrawer)  
 [MaterialDesignLibrary](#2materialdesignlibrary) 
-
 [RippleEffect](#3rippleeffect) 
-
 [MaterialEditText](#4materialedittext) 
-
 [LollipopShowcase](#5lollipopshowcase) 
-
 [MaterialList](#6materiallist) 
-
 [FloatingActionButton](#7floatingactionbutton)
 
 [android-ui](#8android-ui) 
@@ -31,7 +26,7 @@
 
 [android-floating-action-button](#16android-floating-action-button)
 
-[Material Design Icons18](#17material-designi-cons18)
+[Material Design Icons18](#17material-design-icons18)
 
 [material-ripple](#18material-ripple)
 
