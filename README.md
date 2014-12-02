@@ -1,6 +1,6 @@
 #Material-Design
 ------
-[TOC]
+[FloatingActionButton](##7.FloatingActionButton)  
 
 ## 1.菜单和箭头变换动画  
 * 项目地址：https://github.com/ikimuhendis/LDrawer  
@@ -71,29 +71,23 @@ Custom Tabs with Material Design animations for pre-Lollipop devices
 Not even AppCompat uses Material theming for AlertDialogs on pre-Lollipop. This is a beautiful and easy solution
 * 项目地址：https://github.com/afollestad/material-dialogs
 
-## 16.MaterialEditText
-AppCompat v21 makes it easy to use Material Design EditText in our apps, but it's so limited. If you've tried that, you know what I mean. So I wrote MaterialEditText, the EditText in Material Design, with more features that Google Material Design Spec has introduced.
-* 项目地址：https://github.com/rengwuxian/MaterialEditText
-
-![image](https://github.com/rengwuxian/MaterialEditText/blob/master/images/material_edittext.png)
-
-## 17.android-floating-action-button
+## 16.android-floating-action-button
 Floating Action Button for Android based on Material Design specification
 * 项目地址：https://github.com/futuresimple/android-floating-action-button
  
 ![image](https://github.com/futuresimple/android-floating-action-button/blob/master/screenshots/buttons.png)
 
-## 18.Material Design Icons18.
+## 17.Material Design Icons18.
 Material Design Icons are the official open-source icons featured in the Google Material Design specification
 * 项目地址：https://github.com/google/material-design-icons
 
-## 19.material-ripple
+## 18.material-ripple
 Android L Ripple effect wrapper for Views
 * 项目地址：https://github.com/balysv/material-ripple
 
 ![image](https://camo.githubusercontent.com/a39897ad0553f7c3e75fc9663af89afbab8c49d2/68747470733a2f2f7261772e6769746875622e636f6d2f62616c7973762f6d6174657269616c2d726970706c652f6d61737465722f6172742f64656d6f2e676966)
 
-## 20.Android-Material-circular-button
+## 19.Android-Material-circular-button
 Animated Material circular button
 * 项目地址：https://github.com/glomadrian/Android-Material-circular-button
  
