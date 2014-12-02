@@ -4,7 +4,6 @@
 
 ## 1.菜单和箭头变换动画  
 * 项目地址：https://github.com/ikimuhendis/LDrawer  
-
 ![image](https://raw.githubusercontent.com/IkiMuhendis/LDrawer/master/images/animated.gif)  
 
 ## 2.MaterialDesignLibrary  
@@ -63,7 +62,6 @@ Android Library that implements Snackbars from Google's Material Design document
 ## 14.MaterialTabs
 Custom Tabs with Material Design animations for pre-Lollipop devices
 * 项目地址：https://github.com/neokree/MaterialTabs
-![image](https://camo.githubusercontent.com/549b1aa23db6b4a155bf0ecd761421fe71db1efc/68747470733a2f2f7261772e6769746875622e636f6d2f6e656f6b7265652f4d6174657269616c546162732f6d61737465722f73637265656e2d69636f6e2e706e67)
 <img src="https://raw.github.com/neokree/MaterialTabs/master/screen-icon.png" alt="screenshot" width="300px" height="auto" />
 
 ## 15.Material Dialogs
@@ -81,7 +79,7 @@ Floating Action Button for Android based on Material Design specification
 ![image](https://github.com/futuresimple/android-floating-action-button/blob/master/screenshots/buttons.png)
 
 ## 18.Material Design Icons18.
-Material Design Icons are the official open-source icons featured in the Google Material Design specification.
+Material Design Icons are the official open-source icons featured in the Google Material Design specification
 * 项目地址：https://github.com/google/material-design-icons
 
 ## 19.material-ripple
